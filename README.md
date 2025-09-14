@@ -15,3 +15,11 @@ Para evitar la “planicie” típica de los datos sintéticos, incorporé **var
 > **Nota:** los datos son 100% **ficticios** y se generan con Faker; no representan información de clientes reales.
 
 
+## Vista rápida
+
+> Algunas vistas del dashboard en Power BI:
+
+![Hoja 1 – Resumen](DashBoard_Resumen.png)
+![Hoja 2 – Financiero](DashBoard_Financiero.png)
+![Hoja 3 – Productos/Categorías](DashBoard_Productos.png)
+
